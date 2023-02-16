@@ -27,6 +27,16 @@ a:visited{
     /* Set color */
     color: black;
 }
+img{
+    width:50%;
+    padding: 3px;
+    display: block;
+    margin:auto;
+    border: solid black 5px;
+}
+img:hover{
+    border: solid rgb(146, 13, 13) 5px;
+}
 
 nav a.current{
     /* Set text decoration, transformation, and underline properties */
